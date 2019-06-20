@@ -1,0 +1,16 @@
+{
+  "name": "full-stack",
+  "version": "1.0.0",
+  "description": "``` awk '{gsub(/\\\\n/,\"\\n\");gsub(/\\\\r/,\"\\r\");gsub(/\\\\\"/,\"\\\"\")}1' test.html > test_result.html ```",
+  "main": "script.js",
+  "scripts": {
+    "start": "node script.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.3",
+    "moment": "^2.24.0"
+  }
+}
