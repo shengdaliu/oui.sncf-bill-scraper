@@ -1,7 +1,7 @@
 # Oui.SNCF Train Bill Data Scraper
 
 Oui.SNCF Train Bill Data Scraper
-This Project if based on Node.js with Cheerio.
+This Project is based on Node.js with Cheerio.
 
 ## Getting Started
 
