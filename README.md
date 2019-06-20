@@ -41,6 +41,13 @@ To run the script locally please use this command:
 npm start
 ```
 
+This command will scrap the test.html file and convert it into a json file called test.json
+
+```
+node script.js
+```
+
+
 To see the html file in the browser you can run this command to clean it up:
 
 ```
@@ -52,9 +59,6 @@ To compare the output file and the original result file you can run this command
 ```
 diff test.json  test-result.json
 ```
-
-this command will scrap the test.html file and convert it into a json file called test.json
-
 
 <!-- ## Contributing -->
 
